@@ -15,7 +15,7 @@ The central game element is a rechargeable dash that temporarily gives the rat k
 With the help of stones scattered throughout the environment, these mechanisms can be disrupted and temporarily deactivated. The mechanics interlock to create a gaming experience that is both puzzling and physically tangible.
 
 <p>
-  <a href="https://georg-juranek.itch.io" target="_blank" rel="noopener noreferrer">Play Game</a>
+  <a href="https://georg-juranek.itch.io/in-society" target="_blank" rel="noopener noreferrer">Play Game</a>
 </p>
 
 <div style="clear: both;"></div>
