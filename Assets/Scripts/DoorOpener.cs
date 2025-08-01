@@ -62,29 +62,25 @@ public class DoorOpener : MonoBehaviour
             StartCoroutine("MoveUp");
     }
 
+    [SerializeField] float moveSpeed = 1f; // Units per second
+
     IEnumerator MoveUp()
     {
         OnDoorSceneIsHappening?.Invoke(true);
 
-
-        //test
         if (doorCam != null)
         {
             doorCam.gameObject.GetComponent<CinemachineVirtualCamera>().Priority = 10;
-            //Time.timeScale = 0.1f;
         }
-        //test end
 
         doorAudioSource.Play();
 
-        float startPosition = doorWall.transform.position.y;
-        float endPosition = doorWall.transform.position.y + distanceToMoveUp;
+        Vector3 startPos = doorWall.transform.position;
+        Vector3 endPos = startPos + Vector3.up * distanceToMoveUp;
 
-        while(startPosition < endPosition)
+        while (Vector3.Distance(doorWall.transform.position, endPos) > 0.01f)
         {
-            doorWall.transform.position = Vector3.MoveTowards(doorWall.transform.position, new Vector3(doorWall.transform.position.x,endPosition, doorWall.transform.position.z), moveUpDelta);
-            startPosition = doorWall.transform.position.y;
-
+            doorWall.transform.position = Vector3.MoveTowards(doorWall.transform.position, endPos, moveSpeed * Time.deltaTime);
             yield return null;
         }
 
@@ -92,15 +88,12 @@ public class DoorOpener : MonoBehaviour
 
         minimapMark.GetComponent<MeshRenderer>().enabled = false;
 
-        //test
         if (doorCam != null)
         {
             doorCam.gameObject.GetComponent<CinemachineVirtualCamera>().Priority = -10;
-            //Time.timeScale = 1f;
         }
-        //Destroy(doorCam.gameObject);
-
 
         OnDoorSceneIsHappening?.Invoke(false);
     }
+
 }
