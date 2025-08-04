@@ -21,19 +21,35 @@ With the help of stones scattered throughout the environment, these mechanisms c
 <div style="clear: both;"></div>
 
 <div style="width: 80%; margin-bottom: 2em;">
-  <img src=""  alt="Press4" style="width: 100%;">
+  <img width="891" height="551" alt="Mask group In Society" src="https://github.com/user-attachments/assets/c735eded-be9f-4df6-a755-9165d9a93ec6" style="width: 100%;">
+</div>
+
+<!-- 2x2 Tabelle an der Stelle der vier Bilder -->
+<table style="width: 80%; margin-bottom: 2em; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 5px;">
+      <img width="634" height="357" alt="Group 121 In Society" src="https://github.com/user-attachments/assets/0f35568d-0907-4b51-86ce-64ab2fb9e6c6" style="width: 100%;">
+    </td>
+    <td style="padding: 5px;">
+      <img width="634" height="357" alt="Group 122 In Society" src="https://github.com/user-attachments/assets/9223f78c-b942-4f52-acd2-a3ed3ade8456" style="width: 100%;">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">
+      <img width="635" height="357" alt="Group 121 In Society-1" src="https://github.com/user-attachments/assets/4ae723e0-8910-4ada-a2f6-9aacabe44b98" style="width: 100%;">
+    </td>
+    <td style="padding: 5px;">
+      <img width="635" height="357" alt="Group 122 In Society-1" src="https://github.com/user-attachments/assets/a60feaf5-4eba-4f8a-ab13-0249b06926b6" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
+<div style="width: 80%; margin-bottom: 2em;">
+  <img width="1029" height="709" alt="Group 59 In Society" src="https://github.com/user-attachments/assets/a4d9bfc1-57cb-4363-a138-641846c1f625" style="width: 100%;">
 </div>
 
 <div style="width: 80%; margin-bottom: 2em;">
-  <img src=""  alt="Press6" style="width: 100%;">
-</div>
-
-<div style="width: 80%; margin-bottom: 2em;">
-  <img src="" alt="Press7" style="width: 100%;">
-</div>
-
-<div style="width: 80%; margin-bottom: 2em;">
-  <img src="" alt="Press7" style="width: 100%;">
+  <img width="1123" height="632" alt="Group 23 In Society" src="https://github.com/user-attachments/assets/dace0c4a-a010-4735-a591-6d94ee1b3b89" style="width: 100%;">
 </div>
 
 <div style="clear: both;"></div>
