@@ -45,11 +45,12 @@ With the help of stones scattered throughout the environment, these mechanisms c
 </table>
 
 <div style="width: 80%; margin-bottom: 2em;">
-  <img width="1029" height="709" alt="Group 59 In Society" src="https://github.com/user-attachments/assets/a4d9bfc1-57cb-4363-a138-641846c1f625" style="width: 100%;">
+  <img width="1123" height="632" alt="Group 23 In Society" src="https://github.com/user-attachments/assets/dace0c4a-a010-4735-a591-6d94ee1b3b89" style="width: 100%;">
 </div>
 
+<h3>🧭 Map of all 4 areas:</h3>
 <div style="width: 80%; margin-bottom: 2em;">
-  <img width="1123" height="632" alt="Group 23 In Society" src="https://github.com/user-attachments/assets/dace0c4a-a010-4735-a591-6d94ee1b3b89" style="width: 100%;">
+  <img width="1029" height="709" alt="Group 59 In Society" src="https://github.com/user-attachments/assets/a4d9bfc1-57cb-4363-a138-641846c1f625" style="width: 100%;">
 </div>
 
 <div style="clear: both;"></div>
