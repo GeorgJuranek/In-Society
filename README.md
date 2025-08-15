@@ -1,4 +1,10 @@
 # SAE Game Project Semester 1
+
+| 💡 **Conception** | 🧨 **Timeframe**                   | ⚙️ **Technical Stack** |
+|----------------|---------------------------------|---------------------|
+| Georg Juranek  | 4 Months<br>(SAE Sem1)     | `Unity`<br>`NavMesh`<br>`Animator`<br>`Level-Design`<br>`UI-Menus`<br>`Player System`|
+
+
 ## In Society
 
 
@@ -14,6 +20,9 @@ The focus is on exploration and finding hidden corners that challenge visual and
 The central game element is a rechargeable dash that temporarily gives the rat king more speed, making it easier to collect the rats. Activated traps emit beams of light that track the character and try to attract them. 
 With the help of stones scattered throughout the environment, these mechanisms can be disrupted and temporarily deactivated. The mechanics interlock to create a gaming experience that is both puzzling and physically tangible.
 
+<p>
+  <a href="https://youtu.be/bYqM-8zDab8" target="_blank" rel="noopener noreferrer">Watch Video</a>
+</p>
 <p>
   <a href="https://georg-juranek.itch.io/in-society" target="_blank" rel="noopener noreferrer">Play Game</a>
 </p>
