@@ -10,7 +10,7 @@ public class DoorOpener : MonoBehaviour
 
     [SerializeField] float distanceToMoveUp = 5f;
 
-    [SerializeField] float moveUpDelta = 0.01f;
+    //[SerializeField] float moveUpDelta = 0.01f;
 
     [SerializeField] GameObject minimapMark;
 
